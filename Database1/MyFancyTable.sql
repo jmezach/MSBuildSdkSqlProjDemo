@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[MyFancyTable]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Column1] NVARCHAR(100) NOT NULL
+)
