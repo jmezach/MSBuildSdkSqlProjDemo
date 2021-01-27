@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table1]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Column2] NVARCHAR(50) NULL,
+	[Column3] UNIQUEIDENTIFIER NULL
+)
